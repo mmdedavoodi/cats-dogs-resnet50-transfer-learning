@@ -4,20 +4,6 @@ This repository demonstrates **image classification** of cats and dogs using **P
 
 ---
 
-## 📚 Table of Contents
-
-* [Project Overview](#project-overview)
-* [Dataset](#dataset)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Model Architecture](#model-architecture)
-* [Data Preprocessing & Augmentation](#data-preprocessing--augmentation)
-* [Training and Evaluation](#training-and-evaluation)
-* [Results & Visualization](#results--visualization)
-* [License](#license)
-
----
-
 ## 🏗 Project Overview
 
 This project aims to classify images of **cats** and **dogs** by:
