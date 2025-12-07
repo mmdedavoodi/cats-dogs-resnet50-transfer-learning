@@ -183,14 +183,3 @@ print(f"Predicted label: {res}")
 MIT License – free to use, modify, and distribute for personal or academic projects.
 
 ---
-
-**Author:** Your Name
-**Contact:** [your.email@example.com](mailto:your.email@example.com)
-
----
-
-## 🌟 Optional Enhancements
-
-* Add **GIFs of training**
-* Include **example predictions on multiple test images**
-* Add **GitHub badges** for PyTorch, Python, and license
